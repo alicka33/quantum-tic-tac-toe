@@ -1,3 +1,13 @@
+The game of Quantum Tic Tac Toe 
+--------------------------------------------------------------------------
+
+Quantum Tic-Tac-Toe is a variant of Tic-Tac-Toe that incorporates quantum mechanics principles like superposition and entanglement. Instead of placing a definite mark (X or O), players place quantum moves, which exist in multiple squares simultaneously. These moves remain in superposition until a loop (entanglement) forces a collapse, resolving into classical marks. The game adds strategy and unpredictability, requiring players to think in terms of probability and quantum states.
+
+The game can be played against another player, a random AI, or a smart AI that selects the best strategy based on the player's moves. 
+
+This game was created during my first semester at Warsaw University of Technology. 
+Below is the description written for the PIPR course in the winter semester of 2022.
+---------------------------------------------------------------------------
 KWANTOWE KÓŁKO I KRZYŻYK
 
 Cel i opis projektu:
