@@ -5,6 +5,8 @@ Quantum Tic-Tac-Toe is a variant of Tic-Tac-Toe that incorporates quantum mechan
 
 The game can be played against another player, a random AI, or a smart AI that selects the best strategy based on the player's moves. 
 
+![Demo](quantum_gif.GIF)
+
 This game was created during my first semester at Warsaw University of Technology. 
 Below is the description written for the PIPR course in the winter semester of 2022.
 ---------------------------------------------------------------------------
