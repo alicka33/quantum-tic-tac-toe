@@ -7,9 +7,12 @@ The game can be played against another player, a random AI, or a smart AI that s
 
 ![Demo](quantum_gif.GIF)
 
-This game was created during my first semester at Warsaw University of Technology. 
-Below is the description written for the PIPR course in the winter semester of 2022.
 ---------------------------------------------------------------------------
+
+
+**This game was created during my first semester at Warsaw University of Technology. 
+Below is the description written for the PIPR course in the winter semester of 2022.**
+
 KWANTOWE KÓŁKO I KRZYŻYK
 
 Cel i opis projektu:
